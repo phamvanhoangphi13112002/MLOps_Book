@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🖌️ Getting started](README.md)
+* [🕹️ Introduction](README.md)
 
-## INTRODUCTION
+## MODULE 1
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Design Principles](module-1/design-principles.md)
+* [Brand Guidelines](module-1/brand-guidelines.md)
+* [How updates work](module-1/how-updates-work.md)
+* [Accessibility](module-1/accessibility.md)
 
 ## identity
 

@@ -1,9 +1,13 @@
-# 🖌️ Getting started
+# 🕹️ Introduction
 
 ## Welcome !
 
-A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
+Đây là MLE K3 Take Note, được ghi chép trong suốt quá trình học MLOps của Author.&#x20;
 
 {% hint style="info" %}
-Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
+Book take note bao gồm các nội dung được ghi chú để hiểu và thực hành, bao gồm:
+
+* Slide
+* Code
+* Zip file
 {% endhint %}
