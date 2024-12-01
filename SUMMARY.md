@@ -21,3 +21,7 @@
 * [Icons](components/icons.md)
 * [Buttons](components/buttons.md)
 * [Inputs](components/inputs.md)
+
+***
+
+* [Page](page.md)
