@@ -1,9 +1,10 @@
 # Table of contents
 
-* [🕹️ Introduction](README.md)
+* [🕹️ Course Introduction](README.md)
 
 ## MODULE 1
 
+* [🌠 Module 1 - Introduction](module-1/module-1-introduction.md)
 * [Design Principles](module-1/design-principles.md)
 * [Brand Guidelines](module-1/brand-guidelines.md)
 * [How updates work](module-1/how-updates-work.md)
